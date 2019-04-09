@@ -1,0 +1,14 @@
+uuid: 7e51450f-b412-4466-97ba-9c1ed65ae294
+name: orientier
+mail: nathanael@dewhur.st
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
